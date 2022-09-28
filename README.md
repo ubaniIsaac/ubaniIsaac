@@ -9,6 +9,6 @@
 ![MERN stack chat application](https://user-images.githubusercontent.com/32121772/192164311-5a02ddc3-e43a-4367-b69b-0099c8cfa6ca.jpg)
 [Repo Link](https://github.com/ubaniIsaac/Chat-App.git)
 
-It's not much but its honest work 😂.It works with 
+It's not much but its honest work 😂.It works with socket.io, Node and React 
 
 I will update this over time
