@@ -7,7 +7,7 @@
  <a href="https://https://iceu.netlify.app/">
         <img src="https://img.shields.io/badge/My-Portfolio-9cf" alt="My Portfolio"/></a>
 
-## Here are some projects I've worked on like so far  👇
+## Here are some projects I've worked on so far  👇
 <table>
   <tr>
     <td>
