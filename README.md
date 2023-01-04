@@ -4,7 +4,7 @@
 - 🧘🏻‍♀️ I enjoy anime, calisthenics and movies
 - 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/isaac-ubani/)
 
- <a href="https://https://iceu.netlify.app/">
+ <a href="https://iceu.netlify.app/">
         <img src="https://img.shields.io/badge/My-Portfolio-9cf" alt="My Portfolio"/></a>
 
 ## Here are some projects I've worked on so far  👇
