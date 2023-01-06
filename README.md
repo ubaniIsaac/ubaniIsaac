@@ -1,7 +1,7 @@
 # Hello there 👋 I'm **Isaac Ubani**
 
 - 🌱 I’m currently learning ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) with ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-- 🧘🏻‍♀️ I enjoy anime, calisthenics and movies
+<!-- - 🧘🏻‍♀️ I enjoy anime, calisthenics and movies -->
 - 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/isaac-ubani/)
 
  <a href="https://iceu.netlify.app/">
