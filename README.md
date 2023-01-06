@@ -32,15 +32,7 @@
       <a href="https://github.com/ubaniIsaac"><img alt="Isaac's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaniIsaac&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
   <tr>
-    <td>
-      <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-        </a>
-        <p align="center">JavaScript</p>
-      </p>
-    </td>
-    <td>
+       <td>
       <p align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
@@ -48,17 +40,7 @@
         <p align="center">HTML5</p>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td>            
-      <p align="center">
-        <a href="https://mysql.org/docs" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySql" />
-      </a>
-        <p align="center">MySql</p>
-      </p>
-    </td>
-    <td>
+      <td>
       <p align="center">
         <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
@@ -68,6 +50,24 @@
     </td>
   </tr>
   <tr>
+ <td>
+      <p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+        </a>
+        <p align="center">JavaScript</p>
+      </p>
+    </td>
+        <td>
+      <p align="center">
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+        </a>
+        <p align="center">React</p>
+      </p>
+    </td>
+  </tr>
+  <tr>   
     <td>            
       <p align="center">
         <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
@@ -94,12 +94,12 @@
         <p align="center">MongoDB</p>
       </p>
     </td>
-    <td>
+<td>            
       <p align="center">
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-        </a>
-        <p align="center">React</p>
+        <a href="https://mysql.org/docs" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySql" />
+      </a>
+        <p align="center">MySql</p>
       </p>
     </td>
   </tr>
