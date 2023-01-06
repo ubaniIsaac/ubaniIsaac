@@ -25,12 +25,12 @@
 <!--     <td>
       <a href="https://github.com/ubaniIsaac"><img alt="Isaac's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ubaniIsaac&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
     </td> -->
-    <td>
+<!--     <td>
       <a href="http://www.github.com/ubaniIsaac"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ubaniIsaac&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-    <td>
+    </td> -->
+    <th colspan="2">
       <a href="https://github.com/ubaniIsaac"><img alt="Isaac's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaniIsaac&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
-    </td>
+    </th>
   <tr>
        <td>
       <p align="center">
