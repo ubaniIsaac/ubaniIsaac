@@ -7,7 +7,7 @@
  <a href="https://iceu.netlify.app/">
         <img src="https://img.shields.io/badge/My-Portfolio-9cf" alt="My Portfolio"/></a>
 
-## Here are some projects I've worked on so far  👇
+<!-- ## Here are some projects I've worked on so far  👇
 <table>
   <tr>
     <td>
@@ -17,9 +17,9 @@
       <a href="https://github.com/ubaniIsaac/Todo-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ubaniIsaac&repo=todo-app" /></a>
     </td>
   </tr>
-</table>
+</table> -->
 
-## My Github Stats & Technologies I use:
+## Stats & Stuff I use:
 <table>
 <!--   <tr> -->
 <!--     <td>
