@@ -1,11 +1,12 @@
-# Hello there 👋 I'm **Isaac Ubani**
+# Hi 👋 I'm **Isaac Ubani**
 
-- 🌱 I’m currently learning ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) with ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-<!-- - 🧘🏻‍♀️ I enjoy anime, calisthenics and movies -->
-- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/isaac-ubani/)
-
- <a href="https://iceu.netlify.app/">
+<!-- - <a href="https://iceu.netlify.app/">
         <img src="https://img.shields.io/badge/My-Portfolio-9cf" alt="My Portfolio"/></a>
+
+- 🌱 I’m currently learning ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) with ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  -->
+<!-- - 🧘🏻‍♀️ I enjoy anime, calisthenics and movies -->
+- 📫 You can connect with me on (https://linkfree.eddiehub.io/ubaniIsaac)
+
 
 <!-- ## Here are some projects I've worked on so far  👇
 <table>
@@ -19,7 +20,7 @@
   </tr>
 </table> -->
 
-## Stats & Stuff I use:
+<!-- ## Stats & Stuff I use:
 <table>
 <!--   <tr> -->
 <!--     <td>
@@ -28,8 +29,8 @@
 <!--     <td>
       <a href="http://www.github.com/ubaniIsaac"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ubaniIsaac&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td> -->
-    <th colspan="2">
-      <a href="https://github.com/ubaniIsaac"><img alt="Isaac's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaniIsaac&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+<!--     <th colspan="2">
+<!--       <a href="https://github.com/ubaniIsaac"><img alt="Isaac's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaniIsaac&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </th>
   <tr>
        <td>
@@ -60,8 +61,8 @@
     </td>
         <td>
       <p align="center">
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> -->
+<!--           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
         </a>
         <p align="center">React</p>
       </p>
@@ -103,4 +104,4 @@
       </p>
     </td>
   </tr>
-</table>
+</table> --> 
