@@ -1,4 +1,4 @@
-# Hi 👋 I'm **Isaac Ubani**
+# Hi 👋 I'm **Isaac**
 
 <!-- - <a href="https://iceu.netlify.app/">
         <img src="https://img.shields.io/badge/My-Portfolio-9cf" alt="My Portfolio"/></a>
