@@ -1,12 +1,17 @@
-# Hi 👋 I'm **Isaac**
+
 
 <!-- - <a href="https://iceu.netlify.app/">
         <img src="https://img.shields.io/badge/My-Portfolio-9cf" alt="My Portfolio"/></a>
 
 - 🌱 I’m currently learning ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) with ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  -->
-<!-- - 🧘🏻‍♀️ I enjoy anime, calisthenics and movies -->
+<!-- - 🧘🏻‍♀️ I enjoy anime, calisthenics and movies
 - 📫 You can connect with me on (https://linkfree.eddiehub.io/ubaniIsaac)
-
+ -->
+👋 Hi, I’m **Isaac**
+👀 I’m a Back-end Developer
+🌱 I use NodeJs, PHP/Laravel and I'm learning Golang 
+💞️ I'm  open to collaboration
+📫 Reach me on isaacchimdi@gmail.com
 
 <!-- ## Here are some projects I've worked on so far  👇
 <table>
