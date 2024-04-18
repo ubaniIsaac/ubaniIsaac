@@ -7,11 +7,11 @@
 <!-- - 🧘🏻‍♀️ I enjoy anime, calisthenics and movies
 - 📫 You can connect with me on (https://linkfree.eddiehub.io/ubaniIsaac)
  -->
-👋 Hi, I’m **Isaac**
-👀 I’m a Back-end Developer
-🌱 I use NodeJs, PHP/Laravel and I'm learning Golang 
-💞️ I'm  open to collaboration
-📫 Reach me on isaacchimdi@gmail.com
+#👋 Hi, I’m **Isaac**
+#👀 I’m a Back-end Developer
+#🌱 I use NodeJs, PHP/Laravel and I'm learning Golang 
+#💞️ I'm  open to collaboration
+#📫 Reach me on isaacchimdi@gmail.com
 
 <!-- ## Here are some projects I've worked on so far  👇
 <table>
